@@ -37,4 +37,4 @@ Entretanto, é possível fazer um `try`sem `catch` desde que o mesmo tenha um bl
     }
 
 #### Obs:
-* Normalmente o apelido dado às exceções do bloco `catch` é `e` (ex: catch(`RuntimeException e))
+* Normalmente o apelido dado às exceções do bloco `catch` é `e` (ex: catch(`RuntimeException e`))
