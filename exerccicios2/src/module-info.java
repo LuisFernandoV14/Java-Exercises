@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module exerccicios2 {
-}
