@@ -1,14 +1,14 @@
-// Esse é um teste para ler um arquivo
+package Teste;// Esse é um teste para ler um arquivo usando Scanner
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class PrimeiroTeste {
     public static void main(String[] args) {
 
         // Abre um objeto do tipo File e passa a receita de bolo pra ele, tem que usar "\\" para o compilador ler "\"
-        File arquivo = new File("C:\\Users\\SAMSUNG\\Documents\\Cursos\\Curso de Java\\Java-Exercises\\12 - Trabalhando com Arquivos\\Receita de bolo fofinho.txt");
+        File arquivo = new File("C:\\Users\\SAMSUNG\\Documents\\Cursos\\Curso de Java\\Java-Exercises\\12 - Trabalhando com Arquivos\\src\\Teste\\Receita de bolo fofinho.txt");
 
         // Cria um Scanner vazio
         Scanner leitor = null;
