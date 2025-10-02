@@ -52,3 +52,5 @@ public class SegundoTeste {
 
     }
 }
+
+// Obs, caso tenha baixado ou copiado esse arquivo do meu repositório para a sua máquina corrija o caminho para abrir o objeto do tipo String, na linha 11, corretamente, com certeza o caminho não será o mesmo

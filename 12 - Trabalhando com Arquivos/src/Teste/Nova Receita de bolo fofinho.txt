@@ -1,0 +1,40 @@
+Esse é um arquivo copiado!
+
+O arquivo original está em: C:\Users\SAMSUNG\Documents\Cursos\Curso de Java\Java-Exercises\12 - Trabalhando com Arquivos\src\Teste\Receita de bolo fofinho.txt
+
+bolo caseiro fofinho:
+
+Ingredientes
+
+3 ovos
+
+2 xícaras (chá) de açúcar
+
+3 colheres (sopa) de manteiga (ou margarina)
+
+2 e 1/2 xícaras (chá) de farinha de trigo
+
+1 xícara (chá) de leite
+
+1 colher (sopa) de fermento em pó
+
+Modo de preparo
+
+Bata no liquidificador ou batedeira os ovos, o açúcar e a manteiga até ficar cremoso.
+
+Acrescente a farinha aos poucos, alternando com o leite, até formar uma massa lisa.
+
+Misture delicadamente o fermento.
+
+Despeje a massa em uma forma untada e enfarinhada.
+
+Asse em forno médio (180 °C), preaquecido, por cerca de 35 a 40 minutos, ou até dourar e passar no teste do palito.
+
+Se quiser variar, dá pra acrescentar:
+
+1/2 xícara de chocolate em pó (vira bolo de chocolate).
+
+Raspas de limão ou laranja (bolo cítrico).
+
+Coco ralado ou gotas de chocolate na massa.
+
