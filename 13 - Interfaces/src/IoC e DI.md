@@ -1,4 +1,4 @@
-# Inversão de Dependência (IoC - Inversion of Control)
+# Inversão de Controle (IoC - Inversion of Control)
 
 É um princípio de design onde a responsabilidade de criar e gerenciar objetos não fica com a própria classe, mas sim com um container ou framework externo.
 * A classe apenas declara o que precisa e não se preocupa com como o objeto é criado.
