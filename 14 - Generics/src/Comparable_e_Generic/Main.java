@@ -1,4 +1,4 @@
-package Fixar_Comparable_e_Generic;
+package Comparable_e_Generic;
 
 import java.util.ArrayList;
 
