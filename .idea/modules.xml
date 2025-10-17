@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05 - Vetores/05 - Vetores.iml" filepath="$PROJECT_DIR$/05 - Vetores/05 - Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Listas/06 - Listas.iml" filepath="$PROJECT_DIR$/06 - Listas/06 - Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Heranca e Polimorfismo/09 - Heranca e Polimorfismo.iml" filepath="$PROJECT_DIR$/09 - Heranca e Polimorfismo/09 - Heranca e Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Classes Abstratas/10 - Classes Abstratas.iml" filepath="$PROJECT_DIR$/10 - Classes Abstratas/10 - Classes Abstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Tratamento de Excecoes/11 - Tratamento de Excecoes.iml" filepath="$PROJECT_DIR$/11 - Tratamento de Excecoes/11 - Tratamento de Excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - Trabalhando com Arquivos/12 - Trabalhando com Arquivos.iml" filepath="$PROJECT_DIR$/12 - Trabalhando com Arquivos/12 - Trabalhando com Arquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Interfaces/13 - Interfaces.iml" filepath="$PROJECT_DIR$/13 - Interfaces/13 - Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Exercises.iml" filepath="$PROJECT_DIR$/Java-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Exercises2.iml" filepath="$PROJECT_DIR$/Java-Exercises2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Exercises3.iml" filepath="$PROJECT_DIR$/Java-Exercises3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Exercises4.iml" filepath="$PROJECT_DIR$/Java-Exercises4.iml" />
+    </modules>
+  </component>
+</project>
