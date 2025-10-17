@@ -26,3 +26,11 @@ Representa um conjunto de elementos (similar ao da Álgebra)
 * addAll(other) - **união**: adiciona no conjunto os elementos de outro conjunto
 * retainAll(other) - **interseção**: remove do conjunto os elementos não contidos em other
 * removeAll(other) - **diferença**: remove do conjunto os elementos contidos em other
+
+## Importante:
+
+O Set testa igualdade de duas formas: 
+* Caso o tipo fornecido (\<T>) implementar hashCode e equals ele usa-os. Primeiro hashCode e depois equals.
+
+
+* Caso hashCode e equals **não** estiverem implementados ele compara a referência na memória heap, o que pode dar falso negativo. Dois objetos com valores iguais, mas instanciados em momentos diferentes seriam dados como diferentes por esse método.
