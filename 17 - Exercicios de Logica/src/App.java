@@ -11,6 +11,7 @@ public class App {
         // PrimeiraQ_BufferedReader.isPrimoArrojado();
 
 
+        SegundaQ.inverterString();
 
     }
 
